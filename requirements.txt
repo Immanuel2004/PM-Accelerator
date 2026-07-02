@@ -1,0 +1,11 @@
+seaborn
+setuptools
+pandas==3.0.3
+numpy 
+scikit-learn
+ipykernel 
+xgboost
+catboost
+mlflow==1.27.0
+dagshub
+protobuf==7.35.1
