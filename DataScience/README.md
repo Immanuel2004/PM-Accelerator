@@ -264,18 +264,6 @@ Run all notebook cells sequentially to reproduce the analyses and model results.
 
 ---
 
-## Demo Video
-
-Add your project demo video link here after uploading.
-
-Example:
-
-```
-https://youtu.be/your-demo-video
-```
-
----
-
 ## Author
 
 **Immanuel G**
@@ -284,11 +272,11 @@ Data Science | Machine Learning | Generative AI | Agentic AI
 
 **GitHub**
 
-[github.com/Immanuel2004](https://in.linkedin.com/in/immanuelg01?utm_source=chatgpt.com)
+[github.com/Immanuel2004](https://github.com/Immanuel2004)
 
 **LinkedIn**
 
-[linkedin.com/in/immanuelg01](https://in.linkedin.com/in/immanuelg01?utm_source=chatgpt.com)
+[linkedin.com/in/immanuelg01](https://www.linkedin.com/in/immanuelg01/)
 
 ---
 
