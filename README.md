@@ -195,7 +195,7 @@ Air quality metrics such as PM2.5, PM10, Carbon Monoxide, Ozone, and Nitrogen Di
 Clone the repository:
 
 ```bash
-git clone https://github.com/Immanuel2004/PM-Accelerator.git
+git clone https://github.com/Immanuel2004/PM-Accelerator-DS.git
 ```
 
 Create a virtual environment:
